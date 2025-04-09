@@ -1,0 +1,69 @@
+{
+  "Fox": [
+    {
+      "date": "2025-04-01",
+      "happy": 3,
+      "angry": 2,
+      "stressed": 4,
+      "relaxed": 2
+    },
+    {
+      "date": "2025-04-02",
+      "happy": 4,
+      "angry": 1,
+      "stressed": 3,
+      "relaxed": 3
+    },
+    {
+      "date": "2025-04-03",
+      "happy": 2,
+      "angry": 3,
+      "stressed": 5,
+      "relaxed": 1
+    },
+    {
+      "date": "2025-04-04",
+      "happy": 5,
+      "angry": 1,
+      "stressed": 2,
+      "relaxed": 4
+    },
+    {
+      "date": "2025-04-05",
+      "happy": 3,
+      "angry": 2,
+      "stressed": 3,
+      "relaxed": 3
+    },
+    {
+      "date": "2025-04-06",
+      "happy": 4,
+      "angry": 1,
+      "stressed": 2,
+      "relaxed": 5
+    },
+    {
+      "date": "2025-04-07",
+      "happy": 5,
+      "angry": 1,
+      "stressed": 1,
+      "relaxed": 5
+    },
+    {
+      "date": "2025-04-09",
+      "happy": 1,
+      "angry": 2,
+      "stressed": 3,
+      "relaxed": 4
+    }
+  ],
+  "MeetS": [
+    {
+      "date": "2025-04-09",
+      "happy": 2,
+      "angry": 4,
+      "stressed": 5,
+      "relaxed": 3
+    }
+  ]
+}
